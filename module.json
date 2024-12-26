@@ -78,9 +78,7 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e",
-      "flags": {
-        "display": "table-of-contents"
-      }
+      "flags": {}
     },
     {
       "name": "items",

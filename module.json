@@ -58,7 +58,7 @@
     "scripts/lib/lib.js"
   ],
   "styles": [
-    "styles/module.css"
+    "styles/dragon-of-icespire-peak.css"
   ],
   "languages": [
     {
@@ -78,7 +78,9 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e",
-      "flags": {}
+      "flags": {
+        "display": "table-of-contents"
+      }
     },
     {
       "name": "items",

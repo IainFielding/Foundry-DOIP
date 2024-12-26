@@ -4,7 +4,6 @@
   "description": "The adventure is set a short distance from the city of Neverwinter in the Sword Coast region of the Forgotten Realms setting. <br />The Sword Coast is part of the North — a vast realm of free settlements surrounded by lawless, untamed wilderness. <br /> You don’t need to be a Forgotten Realms expert to run the adventure, as everything you need to know about the setting is contained in this book.",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 12,
     "verified": 12,

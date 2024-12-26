@@ -36,6 +36,13 @@
         "compatibility": {}
       }
     ],
+    "recommends": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
     "systems": [
       {
         "id": "dnd5e",

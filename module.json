@@ -26,6 +26,11 @@
         "compatibility": {}
       },
       {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "kctg-5e",
         "type": "module",
         "compatibility": {}

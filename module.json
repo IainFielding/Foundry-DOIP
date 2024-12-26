@@ -25,6 +25,11 @@
         "id": "dnd-dungeon-masters-guide",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "kctg-5e",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "systems": [

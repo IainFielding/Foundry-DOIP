@@ -52,7 +52,8 @@
     ]
   },
   "esmodules": [
-    "scripts/dragon-of-icespirepeak.js"
+    "scripts/dragon-of-icespirepeak.js",
+    "scripts/world/scenes-thumbnails.js"
   ],
   "scripts": [
     "scripts/lib/lib.js"
@@ -78,9 +79,7 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e",
-      "flags": {
-        "display": "table-of-contents"
-      }
+      "flags": {}
     },
     {
       "name": "items",

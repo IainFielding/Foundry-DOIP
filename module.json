@@ -52,7 +52,7 @@
     ]
   },
   "esmodules": [
-    "scripts/module.js"
+    "scripts/dragon-of-icespirepeak.js"
   ],
   "scripts": [
     "scripts/lib/lib.js"

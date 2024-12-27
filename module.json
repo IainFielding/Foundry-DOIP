@@ -70,7 +70,7 @@
   "packs": [
     {
       "name": "content",
-      "label": "Content",
+      "label": "Dragon of Icespire Peak",
       "path": "packs/content",
       "type": "JournalEntry",
       "ownership": {

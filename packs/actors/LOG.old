@@ -1,17 +1,8 @@
-2024/12/26-17:40:00.813907 7dfa6fdb1b38 Recovering log #8
-2024/12/26-17:40:00.938459 7dfa6fdb1b38 Delete type=0 #4
-2024/12/26-17:40:00.946156 7dfa6fdb1b38 Delete type=0 #8
-2024/12/26-17:40:00.960129 7dfa6fdb1b38 Delete type=3 #2
-2024/12/26-17:40:00.970869 7dfa6fdb1b38 Delete type=3 #6
-2024/12/26-18:50:40.869763 7df56bd7fb38 Level-0 table #13: started
-2024/12/26-18:50:40.949113 7df56bd7fb38 Level-0 table #13: 583939 bytes OK
-2024/12/26-18:50:40.972835 7df56bd7fb38 Delete type=0 #11
-2024/12/26-18:50:41.000457 7df56bd7fb38 Manual compaction at level-0 from '!actors!2gF0aP3NmflPUptC' @ 72057594037927935 : 1 .. '!folders!irXzunERqg8c414J' @ 0 : 0; will stop at (end)
-2024/12/26-18:50:41.023684 7df56bd7fb38 Manual compaction at level-1 from '!actors!2gF0aP3NmflPUptC' @ 72057594037927935 : 1 .. '!folders!irXzunERqg8c414J' @ 0 : 0; will stop at '!folders!UQLaEMyITFs7SfmG' @ 359 : 1
-2024/12/26-18:50:41.029942 7df56bd7fb38 Compacting 1@1 + 1@2 files
-2024/12/26-18:50:41.125369 7df56bd7fb38 Generated table #14@1: 333 keys, 403230 bytes
-2024/12/26-18:50:41.129035 7df56bd7fb38 Compacted 1@1 + 1@2 files => 403230 bytes
-2024/12/26-18:50:41.140708 7df56bd7fb38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/12/26-18:50:41.153996 7df56bd7fb38 Delete type=2 #9
-2024/12/26-18:50:41.172150 7df56bd7fb38 Delete type=2 #13
-2024/12/26-18:50:41.329581 7df56bd7fb38 Manual compaction at level-1 from '!folders!UQLaEMyITFs7SfmG' @ 359 : 1 .. '!folders!irXzunERqg8c414J' @ 0 : 0; will stop at (end)
+2024/12/26-23:49:26.728519 7dfa6fdb1b38 Recovering log #17
+2024/12/26-23:49:26.851037 7dfa6fdb1b38 Delete type=0 #17
+2024/12/26-23:49:26.862324 7dfa6fdb1b38 Delete type=3 #15
+2024/12/26-23:53:19.287621 7df56bd7fb38 Level-0 table #22: started
+2024/12/26-23:53:19.290807 7df56bd7fb38 Level-0 table #22: 0 bytes OK
+2024/12/26-23:53:19.315532 7df56bd7fb38 Delete type=0 #20
+2024/12/26-23:53:19.446848 7df56bd7fb38 Manual compaction at level-0 from '!actors!2gF0aP3NmflPUptC' @ 72057594037927935 : 1 .. '!folders!irXzunERqg8c414J' @ 0 : 0; will stop at (end)
+2024/12/26-23:53:19.546074 7df56bd7fb38 Manual compaction at level-1 from '!actors!2gF0aP3NmflPUptC' @ 72057594037927935 : 1 .. '!folders!irXzunERqg8c414J' @ 0 : 0; will stop at (end)

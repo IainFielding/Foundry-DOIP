@@ -2,7 +2,7 @@
 /*  Imports                                     */
 /* -------------------------------------------- */
 import initTableOfContents from "./apps/table-of-contents.mjs";
-import JournalSheet from "./apps/journal-sheet.mjs";
+import DOIPJournalSheet from "./apps/journal-sheet.mjs";
 
 /* -------------------------------------------- */
 /*  Hooks                                       */

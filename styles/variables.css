@@ -16,7 +16,9 @@
     /* ---------------------------------------- */
     --narrative-border: #fff;
     --notable-color: #ebdbcd;
-    --table-color-odd: #dce9ee;
-    --table-color-even: #f2f7f9;
+    --table-header-color: #c6cfc8;
+    --table-color-odd: #ebeeeb;
+    --table-color-even: #f8f9f8;
+    --table-color-hover: #d8e0fa;
     --phb-red: #5a0507;
 }

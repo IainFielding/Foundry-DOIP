@@ -27,12 +27,12 @@ Hooks.once('init', async function() {
  CONFIG.DOIP = {};
 
  // Register Journal Sheet
- /*
- DocumentSheetConfig.registerSheet(JournalEntry, "dnd-players-handbook", PlayersHandbookJournalSheet, {
+ 
+ DocumentSheetConfig.registerSheet(JournalEntry, "sogrom-dragon-of-icespire-peak", DOIPJournalSheet, {
    types: ["base"],
-   label: "Player's Handbook",
+   label: "Dragon of Icespire Peak",
    makeDefault: false
- }); */
+ }); 
  
  initTableOfContents();
 

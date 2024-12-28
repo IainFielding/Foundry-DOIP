@@ -1,11 +1,11 @@
 /**
  * Compendium that renders pages as a table of contents.
  */
-class PHBTableOfContents extends dnd5e.applications.journal.TableOfContentsCompendium {
+class DOIPTableOfContents extends dnd5e.applications.journal.TableOfContentsCompendium {
   /** @inheritdoc */
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
-      classes: ["table-of-contents", "phb"]
+      classes: ["table-of-contents", "doip"]
     });
   }
 }
@@ -15,6 +15,6 @@ class PHBTableOfContents extends dnd5e.applications.journal.TableOfContentsCompe
  */
 export default function initialize() {
   Hooks.once("setup", () => {
-    game.packs.get("dnd-players-handbook.content").applicationClass = PHBTableOfContents;
+    game.packs.get("sogrom-dragon-of-icespire-peak.content").applicationClass = DOIPTableOfContents;
   });
 }

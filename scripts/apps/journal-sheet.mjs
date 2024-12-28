@@ -1,10 +1,10 @@
 /**
  * Custom journal sheet for displaying navigation between pages.
  */
-export default class PlayersHandbookJournalSheet extends dnd5e.applications.journal.JournalSheet5e {
+export default class DOIPJournalSheet extends dnd5e.applications.journal.JournalSheet5e {
   constructor(doc, options) {
     super(doc, options);
-    this.options.classes.push("phb");
+    this.options.classes.push("doip");
   }
 
   /* --------------------------------------------- */
@@ -18,7 +18,7 @@ export default class PlayersHandbookJournalSheet extends dnd5e.applications.jour
     const header = html.querySelector(".journal-entry-content .journal-header");
 
     // Insert navigation
-    const nav = this.document.getFlag("dnd-players-handbook", "navigation");
+    const nav = this.document.getFlag("sogrom-dragon-of-icespire-peak", "navigation");
     if ( nav ) {
       const getDocument = id => {
         if ( !this.document.pack ) return game.journal.get(id);
@@ -31,11 +31,11 @@ export default class PlayersHandbookJournalSheet extends dnd5e.applications.jour
         <nav class="book-navigation">
           <ul>
             <li>${previous ? `<a class="content-link" data-uuid="${previous.uuid}" rel="prev"
-              data-tooltip="PHB.JOURNAL.Previous" data-link data-tooltip-direction="LEFT">${previous.name}</a>` : ""}</li>
+              data-tooltip="DOIP.JOURNAL.Previous" data-link data-tooltip-direction="LEFT">${previous.name}</a>` : ""}</li>
             <li>${up ? `<a class="content-link parent" data-uuid="${up.uuid}"
-            data-link data-tooltip="PHB.JOURNAL.Up">${up.name}</a>` : ""}</li>
+            data-link data-tooltip="DOIP.JOURNAL.Up">${up.name}</a>` : ""}</li>
             <li>${next ? `<a class="content-link" data-uuid="${next.uuid}" rel="next"
-              data-tooltip="PHB.JOURNAL.Next" data-link data-tooltip-direction="RIGHT">${next.name}</a>` : ""}</li>
+              data-tooltip="DOIP.JOURNAL.Next" data-link data-tooltip-direction="RIGHT">${next.name}</a>` : ""}</li>
           </ul>
         </nav>
       `);

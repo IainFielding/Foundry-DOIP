@@ -69,8 +69,20 @@
   ],
   "packs": [
     {
-      "name": "content",
+      "name": "doip",
       "label": "Dragon of Icespire Peak",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "content",
+      "label": "The Journal",
       "path": "packs/content",
       "type": "JournalEntry",
       "ownership": {

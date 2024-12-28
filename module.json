@@ -29,16 +29,26 @@
         "id": "dnd-players-handbook",
         "type": "module",
         "compatibility": {}
-      },
-      {
-        "id": "kctg-5e",
-        "type": "module",
-        "compatibility": {}
       }
     ],
     "recommends": [
       {
         "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "kctg-5e",
         "type": "module",
         "compatibility": {}
       }

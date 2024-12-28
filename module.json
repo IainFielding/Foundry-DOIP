@@ -38,6 +38,11 @@
         "compatibility": {}
       },
       {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "socketlib",
         "type": "module",
         "compatibility": {}

@@ -35,7 +35,7 @@ Hooks.once('init', async function() {
  }); 
  
  
- initTableOfContents();
+ // initTableOfContents();
 
 });
 

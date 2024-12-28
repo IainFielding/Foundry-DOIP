@@ -1,7 +1,7 @@
 {
   "id": "sogrom-dragon-of-icespire-peak",
   "title": "Dragon of Icespire Peak",
-  "description": "The adventure is set a short distance from the city of Neverwinter in the Sword Coast region of the Forgotten Realms setting. <br />The Sword Coast is part of the North — a vast realm of free settlements surrounded by lawless, untamed wilderness. <br /> You don’t need to be a Forgotten Realms expert to run the adventure, as everything you need to know about the setting is contained in this book.",
+  "description": "The adventure is set a short distance from the city of Neverwinter in the Sword Coast region of the Forgotten Realms setting. <br>The Sword Coast is part of the North — a vast realm of free settlements surrounded by lawless, untamed wilderness. <br> You don't need to be a Forgotten Realms expert to run the adventure, as everything you need to know about the setting is contained in this book.",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -89,93 +89,6 @@
       },
       "system": "dnd5e",
       "flags": {}
-    },
-    {
-      "name": "content",
-      "label": "The Journal",
-      "path": "packs/content",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "items",
-      "label": "Items",
-      "path": "packs/items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "actors",
-      "label": "Actors",
-      "path": "packs/actors",
-      "type": "Actor",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "maps",
-      "label": "Maps",
-      "path": "packs/maps",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "audio",
-      "label": "Audio",
-      "path": "packs/audio",
-      "type": "Playlist",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "tables",
-      "label": "Tables",
-      "path": "packs/tables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-        "name": "Dragon of Icespire Peak",
-        "color": "#5046a0",
-        "sorting": "m",
-        "packs": [
-            "content",
-            "maps",
-            "actors",
-            "items",
-            "audio",
-            "tables"
-        ]
     }
 ],
   "url": "#{URL}#",

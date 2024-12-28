@@ -52,8 +52,7 @@
     ]
   },
   "esmodules": [
-    "scripts/dragon-of-icespirepeak.js",
-    "scripts/world/scenes-thumbnails.js"
+    "scripts/dragon-of-icespirepeak.js"
   ],
   "scripts": [
     "scripts/lib/lib.js"

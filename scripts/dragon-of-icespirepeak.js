@@ -34,8 +34,9 @@ Hooks.once('init', async function() {
    makeDefault: false
  }); 
  
+ /*
  initTableOfContents();
-
+*/
 });
 
 

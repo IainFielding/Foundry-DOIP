@@ -96,6 +96,16 @@
       "flags": {}
     }
 ],
+"packFolders": [
+  {
+      "name": "Dragon of Icespire Peak",
+      "color": "#5046a0",
+      "sorting": "m",
+      "packs": [
+          "doip"
+      ]
+  }
+],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",

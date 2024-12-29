@@ -26,17 +26,17 @@
         "compatibility": {}
       },
       {
-        "id": "dnd-players-handbook",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
       }
     ],
     "recommends": [
+      {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      },
       {
         "id": "item-piles",
         "type": "module",
@@ -49,11 +49,6 @@
       },
       {
         "id": "monks-little-details",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "socketlib",
         "type": "module",
         "compatibility": {}
       },
@@ -103,6 +98,11 @@
         "compatibility": {}
       },
       {
+        "id": "combat-tracker-dock",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "MC5e",
         "type": "module",
         "compatibility": {}
@@ -111,7 +111,17 @@
         "id": "kctg-5e",
         "type": "module",
         "compatibility": {}
-      }
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
     ],
     "systems": [
       {

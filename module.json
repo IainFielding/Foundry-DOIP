@@ -29,6 +29,11 @@
         "id": "dnd-players-handbook",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "recommends": [
@@ -38,7 +43,12 @@
         "compatibility": {}
       },
       {
-        "id": "monks-active-tiles",
+        "id": "monks-bloodsplats",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-little-details",
         "type": "module",
         "compatibility": {}
       },
@@ -48,7 +58,52 @@
         "compatibility": {}
       },
       {
-        "id": "tagger",
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smalltime",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "times-up",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "torch",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vision-5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "visual-active-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "damage-log",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "MC5e",
         "type": "module",
         "compatibility": {}
       },

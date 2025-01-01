@@ -121,7 +121,7 @@
         "id": "lib-wrapper",
         "type": "module",
         "compatibility": {}
-      },
+      }
     ],
     "systems": [
       {

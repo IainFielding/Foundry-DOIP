@@ -1,8 +1,15 @@
-2025/01/04-23:56:05.737164 7dfa70db7b38 Recovering log #171
-2025/01/04-23:56:05.875107 7dfa70db7b38 Delete type=0 #171
-2025/01/04-23:56:05.886724 7dfa70db7b38 Delete type=3 #169
-2025/01/04-23:56:12.164969 7df56bd7fb38 Level-0 table #176: started
-2025/01/04-23:56:12.168656 7df56bd7fb38 Level-0 table #176: 0 bytes OK
-2025/01/04-23:56:12.190869 7df56bd7fb38 Delete type=0 #174
-2025/01/04-23:56:12.205803 7df56bd7fb38 Manual compaction at level-0 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)
-2025/01/04-23:56:12.205833 7df56bd7fb38 Manual compaction at level-1 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)
+2025/01/04-23:58:00.845708 7dfa6fdb1b38 Recovering log #175
+2025/01/04-23:58:00.962883 7dfa6fdb1b38 Delete type=0 #175
+2025/01/04-23:58:00.974228 7dfa6fdb1b38 Delete type=3 #173
+2025/01/05-16:21:21.701503 7df56bd7fb38 Level-0 table #180: started
+2025/01/05-16:21:21.781932 7df56bd7fb38 Level-0 table #180: 789923 bytes OK
+2025/01/05-16:21:21.805918 7df56bd7fb38 Delete type=0 #178
+2025/01/05-16:21:21.833612 7df56bd7fb38 Manual compaction at level-0 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)
+2025/01/05-16:21:21.976357 7df56bd7fb38 Manual compaction at level-1 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at '!adventures!B9MC4Z5BUcD1JIQq' @ 27 : 1
+2025/01/05-16:21:21.980489 7df56bd7fb38 Compacting 1@1 + 1@2 files
+2025/01/05-16:21:22.061657 7df56bd7fb38 Generated table #181@1: 1 keys, 789923 bytes
+2025/01/05-16:21:22.065629 7df56bd7fb38 Compacted 1@1 + 1@2 files => 789923 bytes
+2025/01/05-16:21:22.077804 7df56bd7fb38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/05-16:21:22.095104 7df56bd7fb38 Delete type=2 #132
+2025/01/05-16:21:22.106545 7df56bd7fb38 Delete type=2 #180
+2025/01/05-16:21:22.328980 7df56bd7fb38 Manual compaction at level-1 from '!adventures!B9MC4Z5BUcD1JIQq' @ 27 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)

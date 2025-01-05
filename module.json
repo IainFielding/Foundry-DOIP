@@ -26,17 +26,17 @@
         "compatibility": {}
       },
       {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
       }
     ],
     "recommends": [
-      {
-        "id": "dnd-players-handbook",
-        "type": "module",
-        "compatibility": {}
-      },
       {
         "id": "item-piles",
         "type": "module",

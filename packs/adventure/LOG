@@ -1,25 +1,9 @@
-2025/01/12-21:04:46.304780 7dfa6f5aeb38 Recovering log #242
-2025/01/12-21:04:46.423576 7dfa6f5aeb38 Delete type=0 #242
-2025/01/12-21:04:46.434398 7dfa6f5aeb38 Delete type=3 #240
-2025/01/12-23:57:34.163374 7df56bd7fb38 Level-0 table #247: started
-2025/01/12-23:57:34.286338 7df56bd7fb38 Level-0 table #247: 1184596 bytes OK
-2025/01/12-23:57:34.313982 7df56bd7fb38 Delete type=0 #245
-2025/01/12-23:58:18.620918 7df56bd7fb38 Level-0 table #249: started
-2025/01/12-23:58:18.699037 7df56bd7fb38 Level-0 table #249: 1184548 bytes OK
-2025/01/12-23:58:18.721569 7df56bd7fb38 Delete type=0 #246
-2025/01/12-23:58:18.747718 7df56bd7fb38 Manual compaction at level-0 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at '!adventures!B9MC4Z5BUcD1JIQq' @ 36 : 1
-2025/01/12-23:58:18.751673 7df56bd7fb38 Compacting 1@0 + 1@1 files
-2025/01/12-23:58:18.850752 7df56bd7fb38 Generated table #250@0: 1 keys, 1184548 bytes
-2025/01/12-23:58:18.854541 7df56bd7fb38 Compacted 1@0 + 1@1 files => 1184548 bytes
-2025/01/12-23:58:18.866491 7df56bd7fb38 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/01/12-23:58:18.880072 7df56bd7fb38 Delete type=2 #247
-2025/01/12-23:58:18.895714 7df56bd7fb38 Delete type=2 #249
-2025/01/12-23:58:18.926747 7df56bd7fb38 Manual compaction at level-0 from '!adventures!B9MC4Z5BUcD1JIQq' @ 36 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)
-2025/01/12-23:58:18.930389 7df56bd7fb38 Manual compaction at level-1 from '!adventures!B9MC4Z5BUcD1JIQq' @ 72057594037927935 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at '!adventures!B9MC4Z5BUcD1JIQq' @ 36 : 1
-2025/01/12-23:58:18.934128 7df56bd7fb38 Compacting 1@1 + 1@2 files
-2025/01/12-23:58:19.019399 7df56bd7fb38 Generated table #251@1: 1 keys, 1184548 bytes
-2025/01/12-23:58:19.023323 7df56bd7fb38 Compacted 1@1 + 1@2 files => 1184548 bytes
-2025/01/12-23:58:19.037837 7df56bd7fb38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/01/12-23:58:19.059849 7df56bd7fb38 Delete type=2 #235
-2025/01/12-23:58:19.076926 7df56bd7fb38 Delete type=2 #250
-2025/01/12-23:58:19.098565 7df56bd7fb38 Manual compaction at level-1 from '!adventures!B9MC4Z5BUcD1JIQq' @ 36 : 1 .. '!adventures!B9MC4Z5BUcD1JIQq' @ 0 : 0; will stop at (end)
+2025/01/13-11:03:14.732938 7dfa70db7b38 Recovering log #262
+2025/01/13-11:03:14.871398 7dfa70db7b38 Delete type=0 #262
+2025/01/13-11:03:14.882668 7dfa70db7b38 Delete type=3 #260
+2025/01/13-16:00:53.649854 7df56bd7fb38 Level-0 table #267: started
+2025/01/13-16:00:53.754108 7df56bd7fb38 Level-0 table #267: 1184624 bytes OK
+2025/01/13-16:00:53.780264 7df56bd7fb38 Delete type=0 #265
+2025/01/13-16:01:45.718416 7df56bd7fb38 Level-0 table #269: started
+2025/01/13-16:01:45.887017 7df56bd7fb38 Level-0 table #269: 1185373 bytes OK
+2025/01/13-16:01:45.909856 7df56bd7fb38 Delete type=0 #266

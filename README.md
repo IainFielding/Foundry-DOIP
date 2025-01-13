@@ -15,8 +15,8 @@
 
 This Foundry VTT module is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
-<br>
 This module contains the following:
+
 + 92 Actors
 + 56 Items
 + 25 Scenes
